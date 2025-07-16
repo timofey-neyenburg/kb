@@ -11,10 +11,14 @@
             "id": "690e23a0e1d7e245",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "База знаний по бэку.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "База знаний по бэку"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "База знаний по бэку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for База знаний по бэку"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "База знаний по бэку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from База знаний по бэку"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "База знаний по бэку.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of База знаний по бэку"
             }
           }
         ]
@@ -161,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "690e23a0e1d7e245",
+  "active": "697908a77290d73a",
   "lastOpenFiles": [
+    "README.md",
+    "graph.png",
+    "База знаний по бэку.md",
     "Разделы/БД/Базы данных.md",
     "Разделы/БД/sql/SQL.md",
     "Разделы/БД/indexes/Индексы.md",
@@ -176,8 +186,6 @@
     "Разделы/БД/postgres/Postgresql.md",
     "Разделы/БД/sql",
     "Разделы/БД/indexes",
-    "База знаний по бэку.md",
-    "README.md",
     "Разделы/Deploy/docker/Docker.md",
     "Разделы/Deploy/Деплой.md",
     "Разделы/Deploy/strategies",
