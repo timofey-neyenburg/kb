@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "f2b6fca3ee4d5ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "65c0cf090d98d9c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de684bf2cae92fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний по бэку.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "База знаний по бэку"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "160a6be6be7ea5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "88c6d0257b999a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697908a77290d73a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0712959372c872a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15e085b43dc75b41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa05fd764582ed18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea811d28e05a560a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20293a4d8ef9b303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "База знаний по бэку.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for База знаний по бэку"
+            }
+          },
+          {
+            "id": "97358827be14b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "База знаний по бэку.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from База знаний по бэку"
+            }
+          },
+          {
+            "id": "c7a0720b3e314d9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e38fda6fa3f5c99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "База знаний по бэку.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of База знаний по бэку"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de684bf2cae92fb2",
+  "lastOpenFiles": [
+    "База знаний по бэку.md",
+    "Разделы/Git",
+    "Разделы/Deploy",
+    "Разделы/Git/Git.md",
+    "Разделы/Deploy/Деплой.md",
+    "Разделы/Python",
+    "Разделы/Golang",
+    "Разделы/БД",
+    "Разделы",
+    "Разделы/БД/Базы данных.md",
+    "Разделы/Golang/Golang.md",
+    "Разделы/Python/Python.md"
+  ]
+}
