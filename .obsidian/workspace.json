@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "65c0cf090d98d9c6",
+        "id": "ca34517878fbb3f9",
         "type": "tabs",
         "children": [
           {
-            "id": "de684bf2cae92fb2",
+            "id": "690e23a0e1d7e245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний по бэку.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "База знаний по бэку"
-            }
-          },
-          {
-            "id": "4ade727e9713e872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -183,19 +161,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ade727e9713e872",
+  "active": "690e23a0e1d7e245",
   "lastOpenFiles": [
+    "Разделы/БД/Базы данных.md",
+    "Разделы/БД/sql/SQL.md",
+    "Разделы/БД/indexes/Индексы.md",
+    "Разделы/БД/clickhouse",
+    "Разделы/БД/redis",
+    "Разделы/БД/postgres",
+    "Разделы/БД/mongo",
+    "Разделы/БД/clickhouse/Clickhouse.md",
+    "Разделы/БД/redis/Redis.md",
+    "Разделы/БД/mongo/Mongodb.md",
+    "Разделы/БД/postgres/Postgresql.md",
+    "Разделы/БД/sql",
+    "Разделы/БД/indexes",
     "База знаний по бэку.md",
     "README.md",
-    "Разделы/Git",
-    "Разделы/Deploy",
-    "Разделы/Git/Git.md",
+    "Разделы/Deploy/docker/Docker.md",
     "Разделы/Deploy/Деплой.md",
-    "Разделы/Python",
-    "Разделы/Golang",
-    "Разделы/БД",
-    "Разделы",
-    "Разделы/БД/Базы данных.md",
+    "Разделы/Deploy/strategies",
+    "Разделы/Deploy/k8s",
+    "Разделы/Deploy/docker",
+    "Разделы/Deploy/k8s/K8s.md",
+    "Разделы/Deploy/strategies/Стратегии деплоя.md",
+    "Разделы/Git",
+    "Разделы/Git/Git.md",
     "Разделы/Golang/Golang.md",
     "Разделы/Python/Python.md"
   ]
